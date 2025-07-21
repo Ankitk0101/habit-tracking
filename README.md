@@ -7,7 +7,7 @@ Habit Tracker Pro is a full-stack web application designed to help users build a
 Fullstack (React.js + Firebase)
 
 ## Deployed App
-Frontend: https://habit-tracker-pro.web.app  
+Frontend: https://dancing-pasca-74bc8d.netlify.app/  
 Backend: Firebase Cloud Firestore (No direct URL)  
 Authentication: Firebase Auth
 
@@ -25,8 +25,7 @@ habit-tracker/
 └─ package.json
 
 ## Video Walkthroughs
-[App Features Demo](https://example.com/habit-tracker-demo) (2 min)  
-[Codebase Walkthrough](https://example.com/habit-tracker-code) (4 min)
+[App Features Demo and Codebase Walkthrough](https://drive.google.com/file/d/1B2TYl1CETpEFS0xRFYD0kC6oZ5oAhsGF/view?usp=sharing) (10 min) 
 
 ## Features
 - **Habit Management**: Create, edit, and track daily habits
@@ -53,5 +52,5 @@ habit-tracker/
 ### Setup
 1. Clone the repository:
 ```bash
-git clone https:/Ankitk0101/github.com/ankit/habit-tracker.git
+git clone https://github.com/Ankitk0101/habit-tracking
 cd habit-tracker

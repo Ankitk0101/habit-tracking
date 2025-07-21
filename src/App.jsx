@@ -14,20 +14,14 @@ function App() {
       <div className={`${isModalPage ? 'blur-sm pointer-events-none select-none' : ''}`}>
         <Routes>
           <Route path="/" element={ <Home /> } />
-
           <Route path="/dashboard" element={ <PrivateRoute> <Dashboard/> </PrivateRoute>  } />
-
         </Routes>
       </div>
-
      
       <Routes> 
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Signup />} />
       </Routes>
-     
-      {/* <Dashboard/>
-      <Home/> */}
     </>
   );
 }
