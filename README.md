@@ -1,4 +1,4 @@
-# Habit Tracker Pro
+# Habit Tracker
 
 ## Introduction
 Habit Tracker Pro is a full-stack web application designed to help users build and maintain positive habits. The app provides a clean interface for tracking daily habits, visualizing progress with statistics, and categorizing habits into different life areas. It solves the problem of inconsistent habit tracking by providing motivation through streaks, completion rates, and visual progress indicators.
@@ -45,7 +45,7 @@ habit-tracker/
 ## Installation & Getting Started
 
 ### Prerequisites
-- Node.js (v14+)
+- Node.js (v22.16.0)
 - Firebase account (for backend services)
 - npm or yarn
 
