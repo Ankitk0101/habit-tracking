@@ -25,7 +25,7 @@ habit-tracker/
 └─ package.json
 
 ## Video Walkthroughs
-[App Features Demo and Codebase Walkthrough](https://drive.google.com/file/d/1B2TYl1CETpEFS0xRFYD0kC6oZ5oAhsGF/view?usp=sharing) (10 min) 
+[App Features Demo and Codebase Walkthrough] (https://drive.google.com/file/d/1DBjhYaIxeJJDZE3RcMSDIG1yL3MkENRp/view?usp=sharing) (10 min) 
 
 ## Features
 - **Habit Management**: Create, edit, and track daily habits
