@@ -93,7 +93,7 @@ It empowers users to stay consistent, monitor streaks, and visualize daily or we
 
 ### Prerequisites
 
-* Node.js (v16 or later)
+* Node.js (v20 or above)
 * Firebase Account
 * npm or yarn
 
@@ -115,7 +115,7 @@ npm start
 ```
 
 **Access:**
-Frontend → [http://localhost:3000](http://localhost:5173)
+Frontend → [http://localhost:5173](http://localhost:5173)
 
 ---
 
