@@ -2,7 +2,7 @@
 
 **Live Demo:** [habit-traker-ankit-kumar.netlify.app](https://habit-traker-ankit-kumar.netlify.app)
 
-**Habit Tracker Pro** is a modern productivity web app designed to help users **build, track, and analyze habits** with a clean, visual interface.
+**Habit Tracker** is a modern productivity web app designed to help users **build, track, and analyze habits** with a clean, visual interface.
 It empowers users to stay consistent, monitor streaks, and visualize daily or weekly progress.
 
 ---
